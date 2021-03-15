@@ -1,0 +1,1446 @@
+1614489812705	geckodriver	INFO	Listening on 127.0.0.1:41965
+1614489812710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTA2lxB"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:12711): GLib-GObject-CRITICAL **: 07:23:34.435: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:12730): GLib-GObject-CRITICAL **: 07:23:34.599: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614489815835	Marionette	INFO	Listening on port 33805
+
+(/usr/lib/firefox/firefox:12797): GLib-GObject-CRITICAL **: 07:23:35.916: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614489815943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614489867490	Marionette	INFO	Stopped listening on port 33805
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614490140866	geckodriver	INFO	Listening on 127.0.0.1:48343
+1614490140872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGTC6LQ"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:13117): GLib-GObject-CRITICAL **: 07:29:02.093: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:13134): GLib-GObject-CRITICAL **: 07:29:02.257: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614490143390	Marionette	INFO	Listening on port 35937
+
+(/usr/lib/firefox/firefox:13202): GLib-GObject-CRITICAL **: 07:29:03.452: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614490143504	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614490195759	Marionette	INFO	Stopped listening on port 35937
+1614490252038	geckodriver	INFO	Listening on 127.0.0.1:52965
+1614490252042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile11Ybmg"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:13355): GLib-GObject-CRITICAL **: 07:30:53.282: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:13372): GLib-GObject-CRITICAL **: 07:30:53.419: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614490254616	Marionette	INFO	Listening on port 34991
+
+(/usr/lib/firefox/firefox:13442): GLib-GObject-CRITICAL **: 07:30:54.622: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614490254673	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614490306042	Marionette	INFO	Stopped listening on port 34991
+1614490640256	geckodriver	INFO	Listening on 127.0.0.1:43347
+1614490640260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileorquv7"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:13918): GLib-GObject-CRITICAL **: 07:37:21.481: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:13935): GLib-GObject-CRITICAL **: 07:37:21.630: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614490642811	Marionette	INFO	Listening on port 40955
+
+(/usr/lib/firefox/firefox:14003): GLib-GObject-CRITICAL **: 07:37:22.894: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614490642900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614490694031	Marionette	INFO	Stopped listening on port 40955
+1614490741863	geckodriver	INFO	Listening on 127.0.0.1:36777
+1614490741867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9MW4gx"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:14164): GLib-GObject-CRITICAL **: 07:39:03.076: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:14181): GLib-GObject-CRITICAL **: 07:39:03.255: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:14396): GLib-GObject-CRITICAL **: 07:39:04.556: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614490744596	Marionette	INFO	Listening on port 43049
+1614490744707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614490796392	Marionette	INFO	Stopped listening on port 43049
+1614491486479	geckodriver	INFO	Listening on 127.0.0.1:60709
+1614491486483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePrVVF0"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:15102): GLib-GObject-CRITICAL **: 07:51:27.705: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:15119): GLib-GObject-CRITICAL **: 07:51:27.853: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614491489045	Marionette	INFO	Listening on port 36611
+
+(/usr/lib/firefox/firefox:15189): GLib-GObject-CRITICAL **: 07:51:29.087: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614491489113	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614491541364	Marionette	INFO	Stopped listening on port 36611
+1614491808285	geckodriver	INFO	Listening on 127.0.0.1:38551
+1614491808289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4SCMa6"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:15815): GLib-GObject-CRITICAL **: 07:56:49.525: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:15832): GLib-GObject-CRITICAL **: 07:56:49.665: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:15901): GLib-GObject-CRITICAL **: 07:56:50.920: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614491810932	Marionette	INFO	Listening on port 39489
+1614491811028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614491863642	Marionette	INFO	Stopped listening on port 39489
+1614492276215	geckodriver	INFO	Listening on 127.0.0.1:44125
+1614492276219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiHbQ3c"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:17095): GLib-GObject-CRITICAL **: 08:04:37.471: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:17112): GLib-GObject-CRITICAL **: 08:04:37.636: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614492279040	Marionette	INFO	Listening on port 38591
+
+(/usr/lib/firefox/firefox:17184): GLib-GObject-CRITICAL **: 08:04:39.096: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614492279159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614492334139	Marionette	INFO	Stopped listening on port 38591
+1614492764059	geckodriver	INFO	Listening on 127.0.0.1:45599
+1614492764063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJwUPK9"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:18111): GLib-GObject-CRITICAL **: 08:12:45.381: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18128): GLib-GObject-CRITICAL **: 08:12:45.545: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:18199): GLib-GObject-CRITICAL **: 08:12:46.856: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614492766865	Marionette	INFO	Listening on port 38177
+1614492766898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614492818891	Marionette	INFO	Stopped listening on port 38177
+1614493020936	geckodriver	INFO	Listening on 127.0.0.1:50361
+1614493020941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile00wClQ"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:18711): GLib-GObject-CRITICAL **: 08:17:02.226: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18728): GLib-GObject-CRITICAL **: 08:17:02.367: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614493023711	Marionette	INFO	Listening on port 37195
+
+(/usr/lib/firefox/firefox:18796): GLib-GObject-CRITICAL **: 08:17:03.777: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614493023783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614493076907	Marionette	INFO	Stopped listening on port 37195
+1614494548214	geckodriver	INFO	Listening on 127.0.0.1:35235
+1614494548219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGOEGo1"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:21138): GLib-GObject-CRITICAL **: 08:42:29.469: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:21155): GLib-GObject-CRITICAL **: 08:42:29.586: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614494550786	Marionette	INFO	Listening on port 33981
+
+(/usr/lib/firefox/firefox:21223): GLib-GObject-CRITICAL **: 08:42:30.824: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614494550852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614494580378	geckodriver	INFO	Listening on 127.0.0.1:58679
+1614494580382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileITbYN1"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:21323): GLib-GObject-CRITICAL **: 08:43:01.605: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:21340): GLib-GObject-CRITICAL **: 08:43:01.755: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614494582950	Marionette	INFO	Listening on port 45007
+
+(/usr/lib/firefox/firefox:21411): GLib-GObject-CRITICAL **: 08:43:03.034: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614494583042	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614494647116	geckodriver	INFO	Listening on 127.0.0.1:38831
+1614494647122	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHqG73e"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:21522): GLib-GObject-CRITICAL **: 08:44:08.404: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:21539): GLib-GObject-CRITICAL **: 08:44:08.524: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614494649624	Marionette	INFO	Listening on port 39709
+1614494649686	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21609): GLib-GObject-CRITICAL **: 08:44:09.726: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMj04/y0/l/en_GB/sAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-C8LtzDisJr_zj7mX9ReLG0hW7TQ_Kn3ddrYejNRqw4_QFW9YaceJYMVBz841bIvk2oskAehAU5MyOVrPv-HWrIMBgxpzp3es8D6rWd_QDRvIIbsX2m2A1m-SHiXZuVUgLbs6WMgF2I6Dk9hGT579uiG5Kaxqzlfw64VR69.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeF3N0HpZ1KZoD5Fvt-TuS5SnTFZx8Bz61-dMVnHwHPrX_0y5cFhofdV6M7UyfOlDY2JCl9kI6k3XM_HqkmPjt0N, line 876: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMj04/y0/l/en_GB/sAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-C8LtzDisJr_zj7mX9ReLG0hW7TQ_Kn3ddrYejNRqw4_QFW9YaceJYMVBz841bIvk2oskAehAU5MyOVrPv-HWrIMBgxpzp3es8D6rWd_QDRvIIbsX2m2A1m-SHiXZuVUgLbs6WMgF2I6Dk9hGT579uiG5Kaxqzlfw64VR69.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeF3N0HpZ1KZoD5Fvt-TuS5SnTFZx8Bz61-dMVnHwHPrX_0y5cFhofdV6M7UyfOlDY2JCl9kI6k3XM_HqkmPjt0N, line 876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMj04/y0/l/en_GB/sAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-C8LtzDisJr_zj7mX9ReLG0hW7TQ_Kn3ddrYejNRqw4_QFW9YaceJYMVBz841bIvk2oskAehAU5MyOVrPv-HWrIMBgxpzp3es8D6rWd_QDRvIIbsX2m2A1m-SHiXZuVUgLbs6WMgF2I6Dk9hGT579uiG5Kaxqzlfw64VR69.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeF3N0HpZ1KZoD5Fvt-TuS5SnTFZx8Bz61-dMVnHwHPrX_0y5cFhofdV6M7UyfOlDY2JCl9kI6k3XM_HqkmPjt0N, line 876: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMj04/y0/l/en_GB/sAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-C8LtzDisJr_zj7mX9ReLG0hW7TQ_Kn3ddrYejNRqw4_QFW9YaceJYMVBz841bIvk2oskAehAU5MyOVrPv-HWrIMBgxpzp3es8D6rWd_QDRvIIbsX2m2A1m-SHiXZuVUgLbs6WMgF2I6Dk9hGT579uiG5Kaxqzlfw64VR69.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeF3N0HpZ1KZoD5Fvt-TuS5SnTFZx8Bz61-dMVnHwHPrX_0y5cFhofdV6M7UyfOlDY2JCl9kI6k3XM_HqkmPjt0N, line 876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+(/usr/lib/firefox/firefox:21648): GLib-GObject-CRITICAL **: 08:44:32.160: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iZxi4/yK/l/en_GB/1edzQL03RpnsAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-CTVZ0e8UoTcb8LtzDisJr_zW7TQ_Kn3ddr.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeG9-tGLNlPWxPV7LBtSoGksU6-CIkiijLlTr4IiSKKMuSigSpaO5Wjw2YOt4kgLP2XPNT7MjMEDUA9oZ3DLkxOX, line 999: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iZxi4/yK/l/en_GB/1edzQL03RpnsAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-CTVZ0e8UoTcb8LtzDisJr_zW7TQ_Kn3ddr.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeG9-tGLNlPWxPV7LBtSoGksU6-CIkiijLlTr4IiSKKMuSigSpaO5Wjw2YOt4kgLP2XPNT7MjMEDUA9oZ3DLkxOX, line 999: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iZxi4/yK/l/en_GB/1edzQL03RpnsAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-CTVZ0e8UoTcb8LtzDisJr_zW7TQ_Kn3ddr.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeG9-tGLNlPWxPV7LBtSoGksU6-CIkiijLlTr4IiSKKMuSigSpaO5Wjw2YOt4kgLP2XPNT7MjMEDUA9oZ3DLkxOX, line 999: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iZxi4/yK/l/en_GB/1edzQL03RpnsAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-CTVZ0e8UoTcb8LtzDisJr_zW7TQ_Kn3ddr.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeG9-tGLNlPWxPV7LBtSoGksU6-CIkiijLlTr4IiSKKMuSigSpaO5Wjw2YOt4kgLP2XPNT7MjMEDUA9oZ3DLkxOX, line 999: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614494715785	Marionette	INFO	Stopped listening on port 39709
+1614495338276	geckodriver	INFO	Listening on 127.0.0.1:45061
+1614495338280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0LcjsY"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:22502): GLib-GObject-CRITICAL **: 08:55:39.517: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:22519): GLib-GObject-CRITICAL **: 08:55:39.626: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614495340769	Marionette	INFO	Listening on port 43743
+
+(/usr/lib/firefox/firefox:22591): GLib-GObject-CRITICAL **: 08:55:40.830: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614495340831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614495378176	geckodriver	INFO	Listening on 127.0.0.1:55003
+1614495378181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE0HKEl"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:22687): GLib-GObject-CRITICAL **: 08:56:19.461: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:22704): GLib-GObject-CRITICAL **: 08:56:19.622: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:22774): GLib-GObject-CRITICAL **: 08:56:20.839: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614495380841	Marionette	INFO	Listening on port 45989
+1614495380915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614495468864	geckodriver	INFO	Listening on 127.0.0.1:56261
+1614495468868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHf0Hll"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:22894): GLib-GObject-CRITICAL **: 08:57:50.069: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:22911): GLib-GObject-CRITICAL **: 08:57:50.211: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614495471102	Marionette	INFO	Listening on port 33589
+
+(/usr/lib/firefox/firefox:22979): GLib-GObject-CRITICAL **: 08:57:51.178: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614495471201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614495581610	geckodriver	INFO	Listening on 127.0.0.1:48227
+1614495582616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUBNhS3"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:23102): GLib-GObject-CRITICAL **: 08:59:43.796: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:23119): GLib-GObject-CRITICAL **: 08:59:43.953: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614495585089	Marionette	INFO	Listening on port 35809
+
+(/usr/lib/firefox/firefox:23187): GLib-GObject-CRITICAL **: 08:59:45.112: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614495585151	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614495615687	geckodriver	INFO	Listening on 127.0.0.1:41049
+1614495615691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex8vtHK"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:23279): GLib-GObject-CRITICAL **: 09:00:16.965: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:23296): GLib-GObject-CRITICAL **: 09:00:17.132: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614495618458	Marionette	INFO	Listening on port 39815
+
+(/usr/lib/firefox/firefox:23372): GLib-GObject-CRITICAL **: 09:00:18.468: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614495618528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ipF34/y-/l/en_GB/8LtzDisJr_zj7mX9ReLG0hW7TQ_Kn3ddrYejNRqw4_QFW9YaceJYMVBz841bIvk2oskAehAU5MyOVrPv-HWrIMBgxpzp3es8D6rWd_QDRvIIbsX2m2A1m-SHi.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeE1XkQd7hmjIjIkofckOPiGOcOJw6RWOz45w4nDpFY7PjuFyDVr1dDqn1aXArELSm9ttrjcqy7l7RvhAP05bJou, line 169: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ipF34/y-/l/en_GB/8LtzDisJr_zj7mX9ReLG0hW7TQ_Kn3ddrYejNRqw4_QFW9YaceJYMVBz841bIvk2oskAehAU5MyOVrPv-HWrIMBgxpzp3es8D6rWd_QDRvIIbsX2m2A1m-SHi.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeE1XkQd7hmjIjIkofckOPiGOcOJw6RWOz45w4nDpFY7PjuFyDVr1dDqn1aXArELSm9ttrjcqy7l7RvhAP05bJou, line 169: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ipF34/y-/l/en_GB/8LtzDisJr_zj7mX9ReLG0hW7TQ_Kn3ddrYejNRqw4_QFW9YaceJYMVBz841bIvk2oskAehAU5MyOVrPv-HWrIMBgxpzp3es8D6rWd_QDRvIIbsX2m2A1m-SHi.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeE1XkQd7hmjIjIkofckOPiGOcOJw6RWOz45w4nDpFY7PjuFyDVr1dDqn1aXArELSm9ttrjcqy7l7RvhAP05bJou, line 169: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ipF34/y-/l/en_GB/8LtzDisJr_zj7mX9ReLG0hW7TQ_Kn3ddrYejNRqw4_QFW9YaceJYMVBz841bIvk2oskAehAU5MyOVrPv-HWrIMBgxpzp3es8D6rWd_QDRvIIbsX2m2A1m-SHi.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeE1XkQd7hmjIjIkofckOPiGOcOJw6RWOz45w4nDpFY7PjuFyDVr1dDqn1aXArELSm9ttrjcqy7l7RvhAP05bJou, line 169: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+(/usr/lib/firefox/firefox:23418): GLib-GObject-CRITICAL **: 09:00:38.207: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iZxi4/yK/l/en_GB/1edzQL03RpnsAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-CTVZ0e8UoTcb8LtzDisJr_zW7TQ_Kn3ddr.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeG9-tGLNlPWxPV7LBtSoGksU6-CIkiijLlTr4IiSKKMuSigSpaO5Wjw2YOt4kgLP2XPNT7MjMEDUA9oZ3DLkxOX, line 999: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iZxi4/yK/l/en_GB/1edzQL03RpnsAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-CTVZ0e8UoTcb8LtzDisJr_zW7TQ_Kn3ddr.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeG9-tGLNlPWxPV7LBtSoGksU6-CIkiijLlTr4IiSKKMuSigSpaO5Wjw2YOt4kgLP2XPNT7MjMEDUA9oZ3DLkxOX, line 999: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iZxi4/yK/l/en_GB/1edzQL03RpnsAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-CTVZ0e8UoTcb8LtzDisJr_zW7TQ_Kn3ddr.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeG9-tGLNlPWxPV7LBtSoGksU6-CIkiijLlTr4IiSKKMuSigSpaO5Wjw2YOt4kgLP2XPNT7MjMEDUA9oZ3DLkxOX, line 999: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iZxi4/yK/l/en_GB/1edzQL03RpnsAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-CTVZ0e8UoTcb8LtzDisJr_zW7TQ_Kn3ddr.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeG9-tGLNlPWxPV7LBtSoGksU6-CIkiijLlTr4IiSKKMuSigSpaO5Wjw2YOt4kgLP2XPNT7MjMEDUA9oZ3DLkxOX, line 999: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614495681725	Marionette	INFO	Stopped listening on port 39815
+1614496290253	geckodriver	INFO	Listening on 127.0.0.1:46403
+1614496290257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2CIcBe"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:24264): GLib-GObject-CRITICAL **: 09:11:31.572: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:24285): GLib-GObject-CRITICAL **: 09:11:31.743: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614496293001	Marionette	INFO	Listening on port 38491
+
+(/usr/lib/firefox/firefox:24355): GLib-GObject-CRITICAL **: 09:11:33.034: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614496293097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614496355804	geckodriver	INFO	Listening on 127.0.0.1:59319
+1614496355808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerZynHv"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:24447): GLib-GObject-CRITICAL **: 09:12:37.092: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:24464): GLib-GObject-CRITICAL **: 09:12:37.226: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:24536): GLib-GObject-CRITICAL **: 09:12:38.468: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614496358479	Marionette	INFO	Listening on port 32811
+1614496358547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=Ij3Wp8lg5Kz, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMj04/y0/l/en_GB/sAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-C8LtzDisJr_zj7mX9ReLG0hW7TQ_Kn3ddrYejNRqw4_QFW9YaceJYMVBz841bIvk2oskAehAU5MyOVrPv-HWrIMBgxpzp3es8D6rWd_QDRvIIbsX2m2A1m-SHiXZuVUgLbs6WMgF2I6Dk9hGT579uiG5Kaxqzlfw64VR69.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeF3N0HpZ1KZoD5Fvt-TuS5SnTFZx8Bz61-dMVnHwHPrX_0y5cFhofdV6M7UyfOlDY2JCl9kI6k3XM_HqkmPjt0N, line 876: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMj04/y0/l/en_GB/sAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-C8LtzDisJr_zj7mX9ReLG0hW7TQ_Kn3ddrYejNRqw4_QFW9YaceJYMVBz841bIvk2oskAehAU5MyOVrPv-HWrIMBgxpzp3es8D6rWd_QDRvIIbsX2m2A1m-SHiXZuVUgLbs6WMgF2I6Dk9hGT579uiG5Kaxqzlfw64VR69.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeF3N0HpZ1KZoD5Fvt-TuS5SnTFZx8Bz61-dMVnHwHPrX_0y5cFhofdV6M7UyfOlDY2JCl9kI6k3XM_HqkmPjt0N, line 876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMj04/y0/l/en_GB/sAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-C8LtzDisJr_zj7mX9ReLG0hW7TQ_Kn3ddrYejNRqw4_QFW9YaceJYMVBz841bIvk2oskAehAU5MyOVrPv-HWrIMBgxpzp3es8D6rWd_QDRvIIbsX2m2A1m-SHiXZuVUgLbs6WMgF2I6Dk9hGT579uiG5Kaxqzlfw64VR69.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeF3N0HpZ1KZoD5Fvt-TuS5SnTFZx8Bz61-dMVnHwHPrX_0y5cFhofdV6M7UyfOlDY2JCl9kI6k3XM_HqkmPjt0N, line 876: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMj04/y0/l/en_GB/sAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-C8LtzDisJr_zj7mX9ReLG0hW7TQ_Kn3ddrYejNRqw4_QFW9YaceJYMVBz841bIvk2oskAehAU5MyOVrPv-HWrIMBgxpzp3es8D6rWd_QDRvIIbsX2m2A1m-SHiXZuVUgLbs6WMgF2I6Dk9hGT579uiG5Kaxqzlfw64VR69.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeF3N0HpZ1KZoD5Fvt-TuS5SnTFZx8Bz61-dMVnHwHPrX_0y5cFhofdV6M7UyfOlDY2JCl9kI6k3XM_HqkmPjt0N, line 876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+(/usr/lib/firefox/firefox:24582): GLib-GObject-CRITICAL **: 09:12:58.462: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iZxi4/yK/l/en_GB/1edzQL03RpnsAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-CTVZ0e8UoTcb8LtzDisJr_zW7TQ_Kn3ddr.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeG9-tGLNlPWxPV7LBtSoGksU6-CIkiijLlTr4IiSKKMuSigSpaO5Wjw2YOt4kgLP2XPNT7MjMEDUA9oZ3DLkxOX, line 999: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iZxi4/yK/l/en_GB/1edzQL03RpnsAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-CTVZ0e8UoTcb8LtzDisJr_zW7TQ_Kn3ddr.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeG9-tGLNlPWxPV7LBtSoGksU6-CIkiijLlTr4IiSKKMuSigSpaO5Wjw2YOt4kgLP2XPNT7MjMEDUA9oZ3DLkxOX, line 999: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iZxi4/yK/l/en_GB/1edzQL03RpnsAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-CTVZ0e8UoTcb8LtzDisJr_zW7TQ_Kn3ddr.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeG9-tGLNlPWxPV7LBtSoGksU6-CIkiijLlTr4IiSKKMuSigSpaO5Wjw2YOt4kgLP2XPNT7MjMEDUA9oZ3DLkxOX, line 999: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iZxi4/yK/l/en_GB/1edzQL03RpnsAtZLYlFywhpa1P3jLZOMlwyomsNwPzEI26uFhq8z9-CTVZ0e8UoTcb8LtzDisJr_zW7TQ_Kn3ddr.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeG9-tGLNlPWxPV7LBtSoGksU6-CIkiijLlTr4IiSKKMuSigSpaO5Wjw2YOt4kgLP2XPNT7MjMEDUA9oZ3DLkxOX, line 999: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yQ/l/en_GB/njR5OWJ6S8-.js?_nc_x=SIaGlYNLxcu&_nc_eui2=AeHzf6Kodgib5V_LKDvL2XKmUmjjBp5FXZVSaOMGnkVdlTYY7UUrAc4jQ8yzOUQR6VNJYlbsvfG2cD1Rv8resDbf, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614496422503	Marionette	INFO	Stopped listening on port 32811
+1614497388995	geckodriver	INFO	Listening on 127.0.0.1:37749
+1614497389997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBfq4Th"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614497393144	Marionette	INFO	Listening on port 43123
+1614497393239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614497460635	Marionette	INFO	Stopped listening on port 43123
+1614497607745	geckodriver	INFO	Listening on 127.0.0.1:51329
+1614497607751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQYduHd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614497610762	Marionette	INFO	Listening on port 37161
+1614497610893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614497675481	Marionette	INFO	Stopped listening on port 37161
+1614497781845	geckodriver	INFO	Listening on 127.0.0.1:60387
+1614497781850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile46ovd9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614497785010	Marionette	INFO	Listening on port 36013
+1614497785094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614497852298	Marionette	INFO	Stopped listening on port 36013
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614497930351	geckodriver	INFO	Listening on 127.0.0.1:34735
+1614497930355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK7aH77"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614497933319	Marionette	INFO	Listening on port 44653
+1614497933429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614498006327	Marionette	INFO	Stopped listening on port 44653
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614498092285	geckodriver	INFO	Listening on 127.0.0.1:52975
+1614498092289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef2Rk8D"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614498095269	Marionette	INFO	Listening on port 39261
+1614498095360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614498149446	Marionette	INFO	Stopped listening on port 39261
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614523646315	geckodriver	INFO	Listening on 127.0.0.1:51297
+1614523647324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6Q2lzO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614523650300	Marionette	INFO	Listening on port 36917
+1614523650369	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614523710769	Marionette	INFO	Stopped listening on port 36917
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614523809571	geckodriver	INFO	Listening on 127.0.0.1:41849
+1614523809575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev2UfL0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614523812571	Marionette	INFO	Listening on port 44137
+1614523812615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614523879058	Marionette	INFO	Stopped listening on port 44137
+1614573371748	geckodriver	INFO	Listening on 127.0.0.1:60499
+1614573371752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUGsAOQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614573374847	Marionette	INFO	Listening on port 45855
+1614573374892	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1614573433332	Marionette	INFO	Stopped listening on port 45855
+1614574727920	geckodriver	INFO	Listening on 127.0.0.1:55159
+1614574727924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerLw3sC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614574731126	Marionette	INFO	Listening on port 33135
+1614574731163	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614574789579	Marionette	INFO	Stopped listening on port 33135
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614574833385	geckodriver	INFO	Listening on 127.0.0.1:54187
+1614574833391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekIWTbH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614574837191	Marionette	INFO	Listening on port 42591
+1614574837240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614574895876	Marionette	INFO	Stopped listening on port 42591
+1614574909907	geckodriver	INFO	Listening on 127.0.0.1:45501
+1614574909913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledioLkZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614574913948	Marionette	INFO	Listening on port 39961
+1614574914091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614574970653	Marionette	INFO	Stopped listening on port 39961
+1614574997763	geckodriver	INFO	Listening on 127.0.0.1:39189
+1614574997769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV4ZnE5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614575002357	Marionette	INFO	Listening on port 45567
+1614575002441	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614575059839	Marionette	INFO	Stopped listening on port 45567
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614575128136	geckodriver	INFO	Listening on 127.0.0.1:52931
+1614575128141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWRSw6F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614575132110	Marionette	INFO	Listening on port 43931
+1614575132199	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614575192357	Marionette	INFO	Stopped listening on port 43931
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230033,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1614575285967	geckodriver	INFO	Listening on 127.0.0.1:52731
+1614575285973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileclivTB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614575289779	Marionette	INFO	Listening on port 35673
+1614575289847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614575356637	Marionette	INFO	Stopped listening on port 35673
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614575365003	geckodriver	INFO	Listening on 127.0.0.1:46431
+1614575365008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledQ0f6y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614575368986	Marionette	INFO	Listening on port 42735
+1614575369085	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614575416029	Marionette	INFO	Stopped listening on port 42735
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614575558319	geckodriver	INFO	Listening on 127.0.0.1:41181
+1614575559326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4tXwRb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614575562805	Marionette	INFO	Listening on port 46861
+1614575562878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614575621002	Marionette	INFO	Stopped listening on port 46861
+1614575622068	geckodriver	INFO	Listening on 127.0.0.1:48769
+1614575622072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileawzrrg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614575630203	Marionette	INFO	Listening on port 46587
+1614575630330	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614575666467	Marionette	INFO	Stopped listening on port 46587
+1614575702968	geckodriver	INFO	Listening on 127.0.0.1:53537
+1614575702975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeKx8bi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614575706784	Marionette	INFO	Listening on port 37773
+1614575706838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614575764850	Marionette	INFO	Stopped listening on port 37773
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614575768222	geckodriver	INFO	Listening on 127.0.0.1:55877
+1614575768226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaEoLHO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614575771677	Marionette	INFO	Listening on port 41103
+1614575771767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614575808082	Marionette	INFO	Stopped listening on port 41103
+1614576014229	geckodriver	INFO	Listening on 127.0.0.1:46275
+1614576014234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8Eav2h"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614576018036	Marionette	INFO	Listening on port 39315
+1614576018111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614576077722	Marionette	INFO	Stopped listening on port 39315
+1614576079736	geckodriver	INFO	Listening on 127.0.0.1:35619
+1614576079742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegoSzHo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614576083522	Marionette	INFO	Listening on port 46655
+1614576083604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614576135031	Marionette	INFO	Stopped listening on port 46655
+1614585911790	geckodriver	INFO	Listening on 127.0.0.1:46205
+1614585912801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUncHGV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614585916349	Marionette	INFO	Listening on port 36753
+1614585916439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614586003720	Marionette	INFO	Stopped listening on port 36753
+1614590693348	geckodriver	INFO	Listening on 127.0.0.1:36555
+1614590693353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU4Z0PT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614590696553	Marionette	INFO	Listening on port 44231
+1614590696598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614590790006	Marionette	INFO	Stopped listening on port 44231
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614591004717	geckodriver	INFO	Listening on 127.0.0.1:48343
+1614591004723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletRIZUx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614591007975	Marionette	INFO	Listening on port 38739
+1614591008064	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614591102071	Marionette	INFO	Stopped listening on port 38739
+1614591417700	geckodriver	INFO	Listening on 127.0.0.1:41427
+1614591417704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqq5bby"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614591420757	Marionette	INFO	Listening on port 44373
+1614591420844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614591479382	Marionette	INFO	Stopped listening on port 44373
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614591573517	geckodriver	INFO	Listening on 127.0.0.1:38649
+1614591573522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGYdWxG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614591576687	Marionette	INFO	Listening on port 42305
+1614591576769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614591649276	Marionette	INFO	Stopped listening on port 42305
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614608454014	geckodriver	INFO	Listening on 127.0.0.1:51777
+1614608455012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePa4xW9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614608458396	Marionette	INFO	Listening on port 34435
+1614608458491	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614609038517	Marionette	INFO	Stopped listening on port 34435
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230033,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1614609192890	geckodriver	INFO	Listening on 127.0.0.1:40627
+1614609192895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileciwI3j"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614609196077	Marionette	INFO	Listening on port 33431
+1614609196134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614609603879	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1614610060979	Marionette	INFO	Stopped listening on port 33431
+JavaScript error: chrome://browser/content/browser-customization.js, line 166: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230033,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614610283589	geckodriver	INFO	Listening on 127.0.0.1:45297
+1614610284596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDDmClR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614610288109	Marionette	INFO	Listening on port 36015
+1614610288234	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1614610595586	Marionette	INFO	Stopped listening on port 36015
+1614616766047	geckodriver	INFO	Listening on 127.0.0.1:50499
+1614616766051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesc0Yh0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614616769112	Marionette	INFO	Listening on port 46839
+1614616769188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614617306267	Marionette	INFO	Stopped listening on port 46839
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614617473522	geckodriver	INFO	Listening on 127.0.0.1:38853
+1614617473528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileERQPMy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614617476477	Marionette	INFO	Listening on port 36203
+1614617476563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614617510334	Marionette	INFO	Stopped listening on port 36203
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614617547734	geckodriver	INFO	Listening on 127.0.0.1:47385
+1614617547738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecWKgf9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614617550893	Marionette	INFO	Listening on port 42875
+1614617550977	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614618156224	Marionette	INFO	Stopped listening on port 42875
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230033,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1614618573429	geckodriver	INFO	Listening on 127.0.0.1:53063
+1614618573433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8bPKOl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614618576551	Marionette	INFO	Listening on port 34645
+1614618576674	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1614618581151	Marionette	INFO	Stopped listening on port 34645
+1614618609978	geckodriver	INFO	Listening on 127.0.0.1:46923
+1614618609982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletWMchn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614618613073	Marionette	INFO	Listening on port 38687
+1614618613137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614618667900	Marionette	INFO	Stopped listening on port 38687
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614618717395	geckodriver	INFO	Listening on 127.0.0.1:47637
+1614618717401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev1CNGy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614618720522	Marionette	INFO	Listening on port 36741
+1614618720636	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614618774727	Marionette	INFO	Stopped listening on port 36741
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614618815604	geckodriver	INFO	Listening on 127.0.0.1:36025
+1614618815609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebFgk8N"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614618818703	Marionette	INFO	Listening on port 46515
+1614618818757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614618884074	Marionette	INFO	Stopped listening on port 46515
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614619127890	geckodriver	INFO	Listening on 127.0.0.1:43939
+1614619127896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewHkghq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614619131029	Marionette	INFO	Listening on port 41391
+1614619131165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614619186688	Marionette	INFO	Stopped listening on port 41391
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614658859312	geckodriver	INFO	Listening on 127.0.0.1:38967
+1614658859318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7OVRYT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614658862288	Marionette	INFO	Listening on port 42613
+1614658862355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614658945105	Marionette	INFO	Stopped listening on port 42613
+1614659508193	geckodriver	INFO	Listening on 127.0.0.1:54425
+1614659508198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyq3d3P"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614659512887	Marionette	INFO	Listening on port 36641
+1614659512948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614661626265	Marionette	INFO	Stopped listening on port 36641
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230033,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614661631748	geckodriver	INFO	Listening on 127.0.0.1:49743
+1614661631753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZDSIKx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614661635500	Marionette	INFO	Listening on port 40755
+1614661635611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614663251005	Marionette	INFO	Stopped listening on port 40755
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230033,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1614663257190	geckodriver	INFO	Listening on 127.0.0.1:57997
+1614663257198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXCFNh3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614663261458	Marionette	INFO	Listening on port 37959
+1614663261570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614664850997	Marionette	INFO	Stopped listening on port 37959
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614664857199	geckodriver	INFO	Listening on 127.0.0.1:46321
+1614664857216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5iFidg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614664860306	Marionette	INFO	Listening on port 46213
+1614664860397	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614666288120	Marionette	INFO	Stopped listening on port 46213
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230033,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1614666294455	geckodriver	INFO	Listening on 127.0.0.1:35661
+1614666295461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen6KI3U"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614666300568	Marionette	INFO	Listening on port 39071
+1614666300667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614667940437	Marionette	INFO	Stopped listening on port 39071
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230033,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614667946767	geckodriver	INFO	Listening on 127.0.0.1:32813
+1614667946803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFszsgU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614667950757	Marionette	INFO	Listening on port 44031
+1614667950810	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614669594079	Marionette	INFO	Stopped listening on port 44031
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230033,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614669600330	geckodriver	INFO	Listening on 127.0.0.1:48179
+1614669600337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile96taU1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614669603890	Marionette	INFO	Listening on port 41403
+1614669603979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614671003241	Marionette	INFO	Stopped listening on port 41403
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230033,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614671009783	geckodriver	INFO	Listening on 127.0.0.1:36131
+1614671009789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRfb4t3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614671013337	Marionette	INFO	Listening on port 42185
+1614671013490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1614671014445	Marionette	INFO	Stopped listening on port 42185
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614671019821	geckodriver	INFO	Listening on 127.0.0.1:38931
+1614671019828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletzcZGd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614671022867	Marionette	INFO	Listening on port 45029
+1614671022996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1614671025009	Marionette	INFO	Stopped listening on port 45029
+1614671030350	geckodriver	INFO	Listening on 127.0.0.1:43465
+1614671030355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledU2XVj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614671033844	Marionette	INFO	Listening on port 37409
+1614671033902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614671036988	Marionette	INFO	Stopped listening on port 37409
+1614698346729	Marionette	INFO	Stopped listening on port 45989
+1614698347115	Marionette	INFO	Stopped listening on port 33589
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615463123937	geckodriver	INFO	Listening on 127.0.0.1:57515
+1615463123941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8VvJQW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615463127572	Marionette	INFO	Listening on port 35947
+1615463127686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615463179725	Marionette	INFO	Stopped listening on port 35947
+1615464216676	geckodriver	INFO	Listening on 127.0.0.1:49703
+1615464216682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew0MJO4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615464219545	Marionette	INFO	Listening on port 33887
+1615464219626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615464269108	Marionette	INFO	Stopped listening on port 33887
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615464524074	geckodriver	INFO	Listening on 127.0.0.1:46565
+1615464524078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevuWAgQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615464526777	Marionette	INFO	Listening on port 33647
+1615464526821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615464614618	Marionette	INFO	Stopped listening on port 33647
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615464894587	geckodriver	INFO	Listening on 127.0.0.1:39067
+1615464894592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLcoOWj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615464897531	Marionette	INFO	Listening on port 34465
+1615464897638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615464943892	Marionette	INFO	Stopped listening on port 34465
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615465036767	geckodriver	INFO	Listening on 127.0.0.1:42329
+1615465036773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVAc4st"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615465040903	Marionette	INFO	Listening on port 45447
+1615465041015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615465095209	Marionette	INFO	Stopped listening on port 45447
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+1615465149598	geckodriver	INFO	Listening on 127.0.0.1:46415
+1615465149603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelS6l2i"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615465152393	Marionette	INFO	Listening on port 43647
+1615465152438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615465195955	Marionette	INFO	Stopped listening on port 43647
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230033,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615465585104	geckodriver	INFO	Listening on 127.0.0.1:56895
+1615465585108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileElvEJi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615465587837	Marionette	INFO	Listening on port 45607
+1615465587939	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615465672986	Marionette	INFO	Stopped listening on port 45607
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615465790100	geckodriver	INFO	Listening on 127.0.0.1:39459
+1615465790104	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRMwNZV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615465793152	Marionette	INFO	Listening on port 39323
+1615465793241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615465870627	Marionette	INFO	Stopped listening on port 39323
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615466001047	geckodriver	INFO	Listening on 127.0.0.1:57003
+1615466001050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletqTr5w"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615466005476	Marionette	INFO	Listening on port 37719
+1615466005590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615466100988	Marionette	INFO	Stopped listening on port 37719
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615466635911	geckodriver	INFO	Listening on 127.0.0.1:46055
+1615466635917	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexSb7gW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615466638876	Marionette	INFO	Listening on port 46557
+1615466638957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615466726015	Marionette	INFO	Stopped listening on port 46557
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615466956370	geckodriver	INFO	Listening on 127.0.0.1:58745
+1615466956374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5qVff2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615466959229	Marionette	INFO	Listening on port 41177
+1615466959312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615467038588	Marionette	INFO	Stopped listening on port 41177
+1615468003785	geckodriver	INFO	Listening on 127.0.0.1:41825
+1615468003789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile203DNr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615468006624	Marionette	INFO	Listening on port 33749
+1615468006727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615468070446	Marionette	INFO	Stopped listening on port 33749
+1615468121705	geckodriver	INFO	Listening on 127.0.0.1:42011
+1615468121709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebAqf8F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615468124505	Marionette	INFO	Listening on port 46155
+1615468124545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615468194712	Marionette	INFO	Stopped listening on port 46155
+1615468451882	geckodriver	INFO	Listening on 127.0.0.1:51611
+1615468451886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCj6bmc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615468454758	Marionette	INFO	Listening on port 38215
+1615468454832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615468522633	Marionette	INFO	Stopped listening on port 38215
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615468796575	geckodriver	INFO	Listening on 127.0.0.1:37085
+1615468796579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHh5lhb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615468799165	Marionette	INFO	Listening on port 40513
+1615468799238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615468857688	Marionette	INFO	Stopped listening on port 40513
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615469427114	geckodriver	INFO	Listening on 127.0.0.1:43629
+1615469427121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0a0CIN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615469430037	Marionette	INFO	Listening on port 39077
+1615469430157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615469492926	Marionette	INFO	Stopped listening on port 39077
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615469577414	geckodriver	INFO	Listening on 127.0.0.1:59599
+1615469577418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejisBMZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615469580365	Marionette	INFO	Listening on port 43515
+1615469580492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615469645604	Marionette	INFO	Stopped listening on port 43515
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615469811868	geckodriver	INFO	Listening on 127.0.0.1:42999
+1615469811874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileETCtNm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615469814809	Marionette	INFO	Listening on port 45549
+1615469814943	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615469875991	Marionette	INFO	Stopped listening on port 45549
+1615470047474	geckodriver	INFO	Listening on 127.0.0.1:57393
+1615470047478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQVwiC1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615470050326	Marionette	INFO	Listening on port 44207
+1615470050415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615470095331	Marionette	INFO	Stopped listening on port 44207
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615610197645	geckodriver	INFO	Listening on 127.0.0.1:40987
+1615610197651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeG8uHa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615610200742	Marionette	INFO	Listening on port 42031
+1615610200809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615610254179	Marionette	INFO	Stopped listening on port 42031
+1615610313371	geckodriver	INFO	Listening on 127.0.0.1:56547
+1615610313375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefjKoWK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615610316499	Marionette	INFO	Listening on port 45789
+1615610316655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615610370524	Marionette	INFO	Stopped listening on port 45789
+1615610411785	geckodriver	INFO	Listening on 127.0.0.1:46345
+1615610411790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN3Z9G2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615610414843	Marionette	INFO	Listening on port 45109
+1615610414936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615610468516	Marionette	INFO	Stopped listening on port 45109
+1615610622217	geckodriver	INFO	Listening on 127.0.0.1:43847
+1615610622221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS7QRV9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615610625591	Marionette	INFO	Listening on port 36709
+1615610625696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615610679234	Marionette	INFO	Stopped listening on port 36709
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615610779513	geckodriver	INFO	Listening on 127.0.0.1:38473
+1615610779517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYDeKeo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615610782517	Marionette	INFO	Listening on port 40553
+1615610782592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615610838409	Marionette	INFO	Stopped listening on port 40553
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615611158199	geckodriver	INFO	Listening on 127.0.0.1:52227
+1615611158203	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejU902u"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615611161240	Marionette	INFO	Listening on port 36019
+1615611161405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615611215558	Marionette	INFO	Stopped listening on port 36019
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615611541918	geckodriver	INFO	Listening on 127.0.0.1:58351
+1615611541922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLKca2B"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615611544804	Marionette	INFO	Listening on port 46097
+1615611544863	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615611599817	Marionette	INFO	Stopped listening on port 46097
+1615611795680	geckodriver	INFO	Listening on 127.0.0.1:44297
+1615611795686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile33UZb2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615611799174	Marionette	INFO	Listening on port 36149
+1615611799242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615611856920	Marionette	INFO	Stopped listening on port 36149
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615612967938	geckodriver	INFO	Listening on 127.0.0.1:37959
+1615612968939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRorvAi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615612972348	Marionette	INFO	Listening on port 45537
+1615612972402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615613095659	Marionette	INFO	Stopped listening on port 45537
+1615613231250	geckodriver	INFO	Listening on 127.0.0.1:53255
+1615613231255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuY9tMw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615613234860	Marionette	INFO	Listening on port 46075
+1615613234928	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615613348611	Marionette	INFO	Stopped listening on port 46075
+1615613529489	geckodriver	INFO	Listening on 127.0.0.1:39331
+1615613529494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZje9e1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615613533440	Marionette	INFO	Listening on port 44669
+1615613533579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615613648870	Marionette	INFO	Stopped listening on port 44669
+1615614033922	geckodriver	INFO	Listening on 127.0.0.1:60865
+1615614033927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2bU1Vq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615614037402	Marionette	INFO	Listening on port 32941
+1615614037491	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615614157859	Marionette	INFO	Stopped listening on port 32941
+1615614641973	geckodriver	INFO	Listening on 127.0.0.1:40207
+1615614641978	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8z7WNW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615614645673	Marionette	INFO	Listening on port 46717
+1615614645739	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615614750720	Marionette	INFO	Stopped listening on port 46717
+1615614795963	geckodriver	INFO	Listening on 127.0.0.1:36613
+1615614795967	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilely7nF6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615614799802	Marionette	INFO	Listening on port 34051
+1615614799927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615614907172	Marionette	INFO	Stopped listening on port 34051
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615615447344	geckodriver	INFO	Listening on 127.0.0.1:57931
+1615615447348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileijNUXQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615615450771	Marionette	INFO	Listening on port 46507
+1615615450900	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615615555389	Marionette	INFO	Stopped listening on port 46507
+1615615714899	geckodriver	INFO	Listening on 127.0.0.1:54801
+1615615714905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVIrfkR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615615719618	Marionette	INFO	Listening on port 33717
+1615615719770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615615838738	Marionette	INFO	Stopped listening on port 33717
+1615615892558	geckodriver	INFO	Listening on 127.0.0.1:60205
+1615615892562	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOxxLoq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615615895825	Marionette	INFO	Listening on port 44971
+1615615895908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615615997462	Marionette	INFO	Stopped listening on port 44971
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615616045222	geckodriver	INFO	Listening on 127.0.0.1:42605
+1615616045227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNokc8U"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615616048790	Marionette	INFO	Listening on port 35767
+1615616048901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615616158667	Marionette	INFO	Stopped listening on port 35767
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615616241149	geckodriver	INFO	Listening on 127.0.0.1:43695
+1615616241153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGtlFIg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615616244560	Marionette	INFO	Listening on port 36031
+1615616244607	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615616361557	Marionette	INFO	Stopped listening on port 36031
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615616511249	geckodriver	INFO	Listening on 127.0.0.1:58747
+1615616511253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRFV6jV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615616514658	Marionette	INFO	Listening on port 34925
+1615616514702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615616627425	Marionette	INFO	Stopped listening on port 34925
+1615616967780	geckodriver	INFO	Listening on 127.0.0.1:35801
+1615616967784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefN9Bg6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615616972189	Marionette	INFO	Listening on port 38603
+1615616972442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615617107311	Marionette	INFO	Stopped listening on port 38603
+1615617176291	geckodriver	INFO	Listening on 127.0.0.1:45587
+1615617176296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec4InUo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615617179925	Marionette	INFO	Listening on port 46505
+1615617180049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615617294583	Marionette	INFO	Stopped listening on port 46505
+1615617583236	geckodriver	INFO	Listening on 127.0.0.1:34437
+1615617583240	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHfQC9A"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615617586652	Marionette	INFO	Listening on port 46291
+1615617586780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615617701717	Marionette	INFO	Stopped listening on port 46291
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615617844277	geckodriver	INFO	Listening on 127.0.0.1:58205
+1615617844281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledVZIRF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615617848278	Marionette	INFO	Listening on port 40629
+1615617848385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615617973599	Marionette	INFO	Stopped listening on port 40629
+1615618208466	geckodriver	INFO	Listening on 127.0.0.1:43313
+1615618208471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRo9yhn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615618212748	Marionette	INFO	Listening on port 40561
+1615618212843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615618333328	Marionette	INFO	Stopped listening on port 40561
+1615619351337	geckodriver	INFO	Listening on 127.0.0.1:40827
+1615619352336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMxBGrA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615619355709	Marionette	INFO	Listening on port 40617
+1615619355791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615619417368	Marionette	INFO	Stopped listening on port 40617
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615619770006	geckodriver	INFO	Listening on 127.0.0.1:50979
+1615619770012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEwQVUH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615619773566	Marionette	INFO	Listening on port 46037
+1615619773647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615619829321	Marionette	INFO	Stopped listening on port 46037
+1615662877429	geckodriver	INFO	Listening on 127.0.0.1:45237
+1615662878427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletqBxBy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615662886747	Marionette	INFO	Listening on port 38237
+1615662886793	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1615662979679	Marionette	INFO	Stopped listening on port 38237
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615663061904	geckodriver	INFO	Listening on 127.0.0.1:56121
+1615663061908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledq44Pq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615663064996	Marionette	INFO	Listening on port 36583
+1615663065061	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615663154575	Marionette	INFO	Stopped listening on port 36583
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615663233476	geckodriver	INFO	Listening on 127.0.0.1:57849
+1615663233480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1J4tbK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615663241558	Marionette	INFO	Listening on port 34309
+1615663241642	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1615663310645	Marionette	INFO	Stopped listening on port 34309
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615663668821	geckodriver	INFO	Listening on 127.0.0.1:42489
+1615663668825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezJughX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615663676946	Marionette	INFO	Listening on port 37799
+1615663676979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615663765511	Marionette	INFO	Stopped listening on port 37799
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615664096963	geckodriver	INFO	Listening on 127.0.0.1:50669
+1615664096968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYkK27w"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615664100312	Marionette	INFO	Listening on port 37333
+1615664100408	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615664179589	Marionette	INFO	Stopped listening on port 37333
+1615711907378	geckodriver	INFO	Listening on 127.0.0.1:45797
+1615711907386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu9WOD5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615711910807	Marionette	INFO	Listening on port 34509
+1615711910935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615711956545	Marionette	INFO	Stopped listening on port 34509
+1615714306399	geckodriver	INFO	Listening on 127.0.0.1:48383
+1615714306404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCtpsnb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615714309530	Marionette	INFO	Listening on port 44891
+1615714309699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615714353383	Marionette	INFO	Stopped listening on port 44891
+1615714769763	geckodriver	INFO	Listening on 127.0.0.1:42199
+1615714769768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4zSRsE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615714772773	Marionette	INFO	Listening on port 36061
+1615714772810	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615714817220	Marionette	INFO	Stopped listening on port 36061
+1615715132250	geckodriver	INFO	Listening on 127.0.0.1:57087
+1615715132256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0xMki9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615715135256	Marionette	INFO	Listening on port 37563
+1615715135295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615715177450	Marionette	INFO	Stopped listening on port 37563
+1615715286222	geckodriver	INFO	Listening on 127.0.0.1:46997
+1615715286227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDKlgfF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615715289586	Marionette	INFO	Listening on port 32915
+1615715289684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615715333509	Marionette	INFO	Stopped listening on port 32915
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615720053277	geckodriver	INFO	Listening on 127.0.0.1:53153
+1615720053281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0P7HSZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615720056502	Marionette	INFO	Listening on port 34225
+1615720056620	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615720101659	Marionette	INFO	Stopped listening on port 34225
+1615720209937	geckodriver	INFO	Listening on 127.0.0.1:55565
+1615720209941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilembTWfX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615720212772	Marionette	INFO	Listening on port 45219
+1615720212886	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1615720341515	Marionette	INFO	Stopped listening on port 45219
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615720488344	geckodriver	INFO	Listening on 127.0.0.1:39431
+1615720488349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiR1yOf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615720491369	Marionette	INFO	Listening on port 36557
+1615720491490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615720541651	Marionette	INFO	Stopped listening on port 36557
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615720600797	geckodriver	INFO	Listening on 127.0.0.1:35697
+1615720600802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2ulG23"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615720603714	Marionette	INFO	Listening on port 40561
+1615720603841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615720648536	Marionette	INFO	Stopped listening on port 40561
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615720764393	geckodriver	INFO	Listening on 127.0.0.1:60187
+1615720764397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKjTa5F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615720767264	Marionette	INFO	Listening on port 34503
+1615720767368	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615720814835	Marionette	INFO	Stopped listening on port 34503
+1615721606077	geckodriver	INFO	Listening on 127.0.0.1:33689
+1615721606081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezmmIob"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615721608973	Marionette	INFO	Listening on port 46655
+1615721609018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615721651394	Marionette	INFO	Stopped listening on port 46655
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615722099132	geckodriver	INFO	Listening on 127.0.0.1:50331
+1615722099136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileREj91L"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615722102110	Marionette	INFO	Listening on port 33181
+1615722102202	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615722147460	Marionette	INFO	Stopped listening on port 33181
+1615722491169	geckodriver	INFO	Listening on 127.0.0.1:48931
+1615722492166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWJptM5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615722495302	Marionette	INFO	Listening on port 46215
+1615722495406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615722539636	Marionette	INFO	Stopped listening on port 46215
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615722858473	geckodriver	INFO	Listening on 127.0.0.1:33267
+1615722858477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler1QgIr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615722861406	Marionette	INFO	Listening on port 44779
+1615722861524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615722914234	Marionette	INFO	Stopped listening on port 44779
+1615723180761	geckodriver	INFO	Listening on 127.0.0.1:33191
+1615723180765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuHl4Bo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615723183681	Marionette	INFO	Listening on port 41087
+1615723183814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615723230878	Marionette	INFO	Stopped listening on port 41087
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615723401229	geckodriver	INFO	Listening on 127.0.0.1:58359
+1615723401233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePwP36T"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615723404134	Marionette	INFO	Listening on port 40863
+1615723404174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615723448701	Marionette	INFO	Stopped listening on port 40863
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615723485829	geckodriver	INFO	Listening on 127.0.0.1:44827
+1615723485833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaxP9Lj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615723488792	Marionette	INFO	Listening on port 33201
+1615723488876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615723532557	Marionette	INFO	Stopped listening on port 33201
+1615723570512	geckodriver	INFO	Listening on 127.0.0.1:52291
+1615723570520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCMaAlX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615723573554	Marionette	INFO	Listening on port 33725
+1615723573668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615723617782	Marionette	INFO	Stopped listening on port 33725
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615723658091	geckodriver	INFO	Listening on 127.0.0.1:43087
+1615723658095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejfN3dm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615723662349	Marionette	INFO	Listening on port 40065
+1615723662433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615723707941	Marionette	INFO	Stopped listening on port 40065
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615724951754	geckodriver	INFO	Listening on 127.0.0.1:33931
+1615724951760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile16vBrU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615724954934	Marionette	INFO	Listening on port 37107
+1615724954998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615725007004	Marionette	INFO	Stopped listening on port 37107
+1615736578535	geckodriver	INFO	Listening on 127.0.0.1:37889
+1615736578538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeIXZg9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615736581586	Marionette	INFO	Listening on port 37093
+1615736581674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615736626355	Marionette	INFO	Stopped listening on port 37093
+1615783410582	geckodriver	INFO	Listening on 127.0.0.1:33441
+1615783410586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepVpqk8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615783413604	Marionette	INFO	Listening on port 44563
+1615783413721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615783466597	Marionette	INFO	Stopped listening on port 44563
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615783643363	geckodriver	INFO	Listening on 127.0.0.1:52587
+1615783643368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileav22aq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615783646239	Marionette	INFO	Listening on port 43835
+1615783646307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615783699228	Marionette	INFO	Stopped listening on port 43835
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615783834583	geckodriver	INFO	Listening on 127.0.0.1:52785
+1615783834586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5u4rCt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615783837697	Marionette	INFO	Listening on port 38895
+1615783837836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615783893892	Marionette	INFO	Stopped listening on port 38895
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615784872717	geckodriver	INFO	Listening on 127.0.0.1:52267
+1615784872722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefHMv6X"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615784876014	Marionette	INFO	Listening on port 38811
+1615784876083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615784931027	Marionette	INFO	Stopped listening on port 38811
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615785620098	geckodriver	INFO	Listening on 127.0.0.1:38093
+1615785620102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBAGezm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615785623170	Marionette	INFO	Listening on port 41293
+1615785623240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615785678064	Marionette	INFO	Stopped listening on port 41293
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615786610021	geckodriver	INFO	Listening on 127.0.0.1:40097
+1615786610026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKgKiKd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615786613013	Marionette	INFO	Listening on port 43131
+1615786613083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615786666165	Marionette	INFO	Stopped listening on port 43131
+1615786839364	geckodriver	INFO	Listening on 127.0.0.1:55679
+1615786839367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLhHCfv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615786842323	Marionette	INFO	Listening on port 42505
+1615786842416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615786897481	Marionette	INFO	Stopped listening on port 42505

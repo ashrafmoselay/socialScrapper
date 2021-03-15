@@ -1,0 +1,68 @@
+1614493817697	geckodriver	INFO	Listening on 127.0.0.1:37027
+1614493817700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUp20Zp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614493821859	Marionette	INFO	Listening on port 42269
+1614493821966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614493847381	Marionette	INFO	Stopped listening on port 42269
+1614496123367	geckodriver	INFO	Listening on 127.0.0.1:33741
+1614496123371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8UELQj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614496126385	Marionette	INFO	Listening on port 45519
+1614496126515	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614496591900	geckodriver	INFO	Listening on 127.0.0.1:51067
+1614496591904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKKfC14"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614496594674	Marionette	INFO	Listening on port 43123
+1614496594761	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1614497328376	Marionette	INFO	Stopped listening on port 43123
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614497334584	Marionette	INFO	Stopped listening on port 45519
+1614834758998	geckodriver	INFO	Listening on 127.0.0.1:52679
+1614834759002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex13ZvA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614834763574	Marionette	INFO	Listening on port 35113
+1614834763672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614834818670	Marionette	INFO	Stopped listening on port 35113
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614841037470	geckodriver	INFO	Listening on 127.0.0.1:56513
+1614841037474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepFGHVE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614841040583	Marionette	INFO	Listening on port 45993
+1614841040710	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.facebook.com/sound_iframe.php?_rdc=1&_rdr, line 7: ReferenceError: requireLazy is not defined
+JavaScript error: https://web.facebook.com/sound_iframe.php?_rdc=1&_rdr, line 7: ReferenceError: requireLazy is not defined
+JavaScript error: https://web.facebook.com/sound_iframe.php?_rdc=1&_rdr, line 8: ReferenceError: requireLazy is not defined
+JavaScript error: https://web.facebook.com/sound_iframe.php?_rdc=1&_rdr, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://web.facebook.com/sound_iframe.php?_rdc=1&_rdr, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://web.facebook.com/sound_iframe.php?_rdc=1&_rdr, line 20: ReferenceError: requireLazy is not defined
+JavaScript error: https://web.facebook.com/sound_iframe.php?_rdc=1&_rdr, line 21: ReferenceError: requireLazy is not defined
+JavaScript error: https://web.facebook.com/sound_iframe.php?_rdc=1&_rdr, line 22: ReferenceError: requireLazy is not defined
+JavaScript error: https://web.facebook.com/sound_iframe.php?_rdc=1&_rdr, line 23: ReferenceError: requireLazy is not defined
+JavaScript error: https://web.facebook.com/sound_iframe.php?_rdc=1&_rdr, line 23: ReferenceError: requireLazy is not defined
+JavaScript error: https://web.facebook.com/sound_iframe.php?_rdc=1&_rdr, line 24: ReferenceError: requireLazy is not defined
+1614841114753	Marionette	INFO	Stopped listening on port 45993
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614841645645	geckodriver	INFO	Listening on 127.0.0.1:33329
+1614841645650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVKcYaX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614841648825	Marionette	INFO	Listening on port 45093
+1614841648892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614841691043	geckodriver	INFO	Listening on 127.0.0.1:56083
+1614841691048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQu73Or"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614841694257	Marionette	INFO	Listening on port 34611
+1614841694405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614841887299	Marionette	INFO	Stopped listening on port 34611
+1614841890705	Marionette	INFO	Stopped listening on port 45093
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
